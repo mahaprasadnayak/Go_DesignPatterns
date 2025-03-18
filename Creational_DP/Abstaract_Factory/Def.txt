@@ -1,0 +1,7 @@
+Abstract Factory
+-------------------
+It is a creational pattern that provides an interface for creating objects without specifying their concrete classes.
+
+When to Use:
+✅ When your system needs to be independent of how its objects are created.
+✅ When you need to enforce that families of objects are designed to work together.

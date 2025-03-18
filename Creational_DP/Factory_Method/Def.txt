@@ -1,0 +1,14 @@
+
+Factory Method Design Pattern in Go-
+---------------------------------------
+-> It is a creational pattern that provides an interface for creating objects specifying their concrete classes.
+
+
+Encapsulates Object Creation – The object creation logic is moved to a dedicated method.
+
+Encourages Code Reusability – Helps avoid repeating the same instantiation logic in multiple places.
+
+Supports Open/Closed Principle – Easy to extend without modifying existing code.
+
+Promotes Loose Coupling – The client code does not need to know the specific class it is working with.
+
